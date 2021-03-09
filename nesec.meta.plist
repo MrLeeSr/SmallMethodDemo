@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPDIRNAME</key>
+	<string>symbolTest.app</string>
+	<key>MACHONAME</key>
+	<string>symbolTest</string>
+	<key>NEPROJECT</key>
+	<string>/Users/libin11/Desktop/test-Demo/test-Demo/symbolTest</string>
+	<key>NESECOUTDIR</key>
+	<string>/Users/libin11/Desktop/test-Demo/test-Demo/symbolTest/build.nesec</string>
+	<key>OUTDIR</key>
+	<string>/Users/libin11/Desktop/test-Demo/test-Demo/symbolTest/build.orig</string>
+	<key>PLATFORMS</key>
+	<string>iphonesimulator iphoneos</string>
+	<key>PROJECTFILE</key>
+	<string>/Users/libin11/Desktop/test-Demo/test-Demo/symbolTest/symbolTest.xcodeproj</string>
+</dict>
+</plist>
